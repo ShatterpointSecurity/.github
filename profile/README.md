@@ -2,7 +2,7 @@
 
 # Shatterpoint Security
 
-**Boutique offensive security — in formation.**
+**Boutique offensive security, in formation.**
 
 Shatterpoint Security is a founder-led offensive-security practice built around one idea: every system has a point where pressure tells the truth. We find that point before someone else does.
 
