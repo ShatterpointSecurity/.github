@@ -1,4 +1,4 @@
-![Shatterpoint Security](https://raw.githubusercontent.com/ShatterpointSecurity/.github/main/profile/banner.webp)
+![Shatterpoint Security](https://raw.githubusercontent.com/ShatterpointSecurity/.github/main/profile/banner.jpg)
 
 # Shatterpoint Security
 
