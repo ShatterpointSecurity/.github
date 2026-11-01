@@ -1,5 +1,7 @@
 ![Shatterpoint Security](https://raw.githubusercontent.com/ShatterpointSecurity/.github/main/profile/banner.jpg)
 
+<p align="center"><img src="assets/founder-mark.svg" width="92" alt="Founder's mark"></p>
+
 # Shatterpoint Security
 
 **Boutique offensive security, in formation.**
@@ -18,6 +20,8 @@ Founded by [@Epsilon0xCell](https://github.com/Epsilon0xCell).
 
 ## The Evidence
 
+<p><img src="assets/official-rule.svg" width="100%" alt=""></p>
+
 | Measure | Count |
 |---|---|
 | Repositories in the fleet | 757 |
@@ -25,13 +29,15 @@ Founded by [@Epsilon0xCell](https://github.com/Epsilon0xCell).
 | Live secrets found | 0 |
 | Practice areas | 3 |
 
+<p><img src="assets/official-rule-flip.svg" width="100%" alt=""></p>
+
 The practice, in short: security reviews, tooling audits, and research, carried out on a public record and written in plain language.
 
 <p><img src="assets/divider.svg" width="480" alt=""></p>
 
 ## The Elite Row
 
-<p><img src="assets/badges/nsa-codebreaker.svg" width="150" alt="NSA Codebreaker Challenge: Finisher, Solo Entrant"> <img src="assets/badges/fbi-team.svg" width="150" alt="FBI TEAM Program Alumnus"> <img src="assets/badges/giac-gsec.svg" width="150" alt="SANS GIAC: GSEC Certified"> <img src="assets/badges/giac-gfact.svg" width="150" alt="SANS GIAC: GFACT Certified"> <img src="assets/badges/giac-advisory.svg" width="150" alt="GIAC Advisory Board"></p>
+<p><img src="assets/elite-wall.svg" width="100%" alt="The Elite Row: NSA Codebreaker Challenge, Finisher, Solo Entrant; FBI TEAM Program Alumnus; SANS GIAC, GSEC Certified; SANS GIAC, GFACT Certified; GIAC Advisory Board"></p>
 
 Every claim here can be checked against the public record.
 
