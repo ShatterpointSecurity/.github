@@ -16,7 +16,7 @@ Shatterpoint Security is a founder-led offensive-security practice built around 
 
 **Status:** In formation. Research, tooling, and methodology are developed here ahead of launch.
 
-Founded by Gavin Blacklock ([@Epsilon0xCell](https://github.com/Epsilon0xCell)).
+Founded by Gavin Blacklock (Gavin K.) ([@Epsilon0xCell](https://github.com/Epsilon0xCell)).
 
 ## The Evidence
 
